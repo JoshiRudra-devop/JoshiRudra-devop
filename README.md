@@ -165,29 +165,17 @@ Here are some of my key public projects spanning Web Apps, Enterprise Management
 ### 📊 GitHub Statistics & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshiRudra-devop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Rudra's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiRudra-devop&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=JoshiRudra-devop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Rudra's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoshiRudra-devop&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  </p>
+  
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshiRudra-devop&theme=tokyonight" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-### 📈 GitHub Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshiRudra-devop&theme=react-dark&radius=8" width="100%" alt="Contribution Graph" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshiRudra-devop&theme=tokyonight" alt="GitHub Streak Stats" />
+  </p>
 </div>
 
 ---
